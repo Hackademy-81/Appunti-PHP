@@ -1,0 +1,37 @@
+
+CPU comprende solo ed esclusivamente il codice binario
+
+Esso per comprendere le istruzioni dei linguaggi di programmazione, ha bisogno che esse vengano tradotte.
+
+Il codice viene tradotto in linguaggio macchina da compilatori o interpretatori.
+
+Compilatori: 
+    - i compilatori traduco il codice e solo ed esclusivamente se non vengono trovati errori durante la truduzione,
+        genera un nuovo file detto eseguibile. Quindi il nostro codice viene eseguito solo dopo che la traduzione
+        termina. (C++)
+
+    let X = 5;
+    console.log(y); //la traduzione verrebbe interrotta
+    console.log(x);
+
+Interpretato:
+    - gli interpretatori traducono le istruzioni e vengono eseguite immediatamente
+
+    let X = 5;
+    console.log(y);
+    console.log(x);
+
+
+PHP è un linguaggio di programmazione interpretato, lato server ed è basato sull'OOP.
+Lato server: si intende una architetttura su cui è basato tutto Internet, in cui vi è un client che invia una richiesta
+ad un server, e il server soddisfa tale richiesta.
+
+Vantaggi: 
+- la manipolazione lato server dell'HTML
+- ci permette di comuncare con dei database
+- è interpretato
+
+
+PHP: Hypertext preprocessor (oggi)
+PHP: personal home page (origine)
+
